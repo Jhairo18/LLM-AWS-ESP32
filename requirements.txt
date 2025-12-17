@@ -1,0 +1,18 @@
+# Core LLM + LangChain
+langchain==0.3.7
+langchain-openai==0.2.6
+langchain-experimental==0.3.2
+openai==1.52.2
+
+# Web app
+streamlit==1.40.1
+
+# Datos y gráficos
+pandas==2.2.3
+matplotlib==3.9.2
+
+# AWS
+boto3==1.35.71
+
+# Utilidades
+python-dotenv==1.0.1
