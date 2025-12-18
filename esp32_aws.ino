@@ -28,8 +28,8 @@ DHT dht(DHTPIN, DHTTYPE);
 // =========================
 //      CREDENCIALES WiFi
 // =========================
-const char* ssid = "red";
-const char* password = "romina0406";
+const char* ssid = "nombre_red";
+const char* password = "contaseña_red";
 
 // =========================
 //   ENDPOINT AWS IoT Core
